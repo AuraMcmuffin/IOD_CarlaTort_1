@@ -14,8 +14,16 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 004ce6558b71aaf4c86666164e31a282, type: 2}
     - target: {fileID: 1149299554917303061, guid: 74e2fa847e710994783b4926e08468de, type: 3}
       propertyPath: m_Name
-      value: Horse Variant
+      value: GrayHorse
       objectReference: {fileID: 0}
+    - target: {fileID: 2306477949144439913, guid: 74e2fa847e710994783b4926e08468de, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 56451b4a50e9dfc498e2764bc8621891, type: 2}
+    - target: {fileID: 3966273162545029259, guid: 74e2fa847e710994783b4926e08468de, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 56451b4a50e9dfc498e2764bc8621891, type: 2}
     - target: {fileID: 4649230983965450220, guid: 74e2fa847e710994783b4926e08468de, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
