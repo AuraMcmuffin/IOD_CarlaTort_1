@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1680
     height: 967
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -509,23 +509,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: f6590000
       m_LastClickedID: 0
       m_ExpandedIDs: 2efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Horse
-        m_OriginalName: Horse
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -1236
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -852,9 +852,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.0347497, y: -1.1118567, z: -1.2630025}
+    m_Target: {x: -1.4871923, y: 0.3147796, z: -1.8361993}
     speed: 2
-    m_Value: {x: -1.0347497, y: -1.1118567, z: -1.2630025}
+    m_Value: {x: -1.4871923, y: 0.3147796, z: -1.8361993}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -900,13 +900,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.10343422, y: 0.84425354, z: -0.17625102, w: -0.49545628}
+    m_Target: {x: -0.038627353, y: 0.9164448, z: -0.091312736, w: -0.3876826}
     speed: 2
-    m_Value: {x: -0.103169516, y: 0.84499407, z: -0.17640562, w: -0.49418834}
+    m_Value: {x: -0.039208855, y: 0.9163073, z: -0.09268735, w: -0.3876244}
   m_Size:
-    m_Target: 2.9626796
+    m_Target: 2.9506931
     speed: 2
-    m_Value: 3.1022823
+    m_Value: 3.089731
   m_Ortho:
     m_Target: 0
     speed: 2
